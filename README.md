@@ -41,9 +41,14 @@ At the Anaconda prompt type jupyter notebook, if you have done everything succes
 friends[1:3,1] # blank: everything | rows, cols, can splice with : | subsets
 friends[friends$age<50, 1:2] # select those with < 50 for friends variable & first & second column
 
-+ Packages/libraries
-Tidyverse %>%
-ggplot2
-grid
-gridExtra
-repr
+- Packages/libraries
+  Tidyverse %>%
+  ggplot2
+  grid
+  gridExtra
+  repr
+
+# Helpful Commands
+
+- Load dataset into dataframe
+  MetroHealth83.df <- read.csv(file="PATH", header=TRUE, sep=",")
