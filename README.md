@@ -1,5 +1,7 @@
 # OM065-Data-Science
 
+[Anki deck](https://ankiuser.net/study)
+
 repo to store hw, labs, etc.
 
 ↓ See if you can make this a dropdown
