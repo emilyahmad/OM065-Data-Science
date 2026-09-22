@@ -1,6 +1,27 @@
 # OM065-Data-Science
 
 [Anki deck](https://ankiuser.net/study)
+___
+
+Simple R installation
+[download R]()
+[download Jupyter/conda]()
+
+open R in terminal, run
+```
+R
+
+install.packages(c('repr', 'IRdisplay', 'evaluate', 'crayon', 'pbdZMQ', 'devtools', 'uuid', 'digest'))
+
+install.packages('IRkernel')
+
+IRkernel::installspec()
+
+conda install -c conda-forge r-irkernel
+```
+
+___
+
 
 repo to store hw, labs, etc.
 
