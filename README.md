@@ -1,11 +1,29 @@
 # OM065-Data-Science
 
+random questions
++ how does Pseudo-Random Number Generator work/prng
++ what is variance squared & why does it = standard deviation
++ is splicing in R the same as python
++ cmd vs shift + enter (printing in ipynb versus terminal?)
++ vscode or rstudio
++ what are parameters in contour map
++ how old is ISLR version I'm reading.. (mentions Unix instead of Linux)
++ what's the .data extension used for
++ why do we call test set nw
++ how do we perform confusion matrices if we don't know the truth about our test data (labels)
+  -> do we just split the training set & evaluate from there?
+  -> kinda answered my question in class, *don't want to work with less data* use *cross-validation*
++ what is cross-validation?
++ robust models? (go back in recording)
+*see knn iris flower for k optimization
+
 [Anki deck](https://ankiuser.net/study)
 ___
 
 Simple R installation
 [download R]()
 [download Jupyter/conda]()
+[download RStudio](https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads)
 
 open R in terminal, run
 ```
