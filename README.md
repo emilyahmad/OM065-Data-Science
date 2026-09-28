@@ -1,5 +1,7 @@
 # OM065-Data-Science
 
+**submit by saving ipynb as html -> pdfing**
+
 random questions
 + how does Pseudo-Random Number Generator work/prng
 + what is variance squared & why does it = standard deviation
