@@ -17,7 +17,8 @@ random questions
   -> kinda answered my question in class, *don't want to work with less data* use *cross-validation*
 + what is cross-validation?
 + robust models? (go back in recording)
-*see knn iris flower for k optimization
++ see knn iris flower for k optimization
++ interpreting statistical significance with (*)s
 
 [Anki deck](https://ankiuser.net/study)
 ___
