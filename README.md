@@ -20,6 +20,9 @@ random questions
 + see knn iris flower for k optimization
 + interpreting statistical significance with (*)s
 
+My work is divided into
+assignments, labs, breakouts
+
 grab the datasets used in the book (not all in the ISLR package, or some needed as csvs, etc.) from [this link](https://www.statlearning.com/resources-first-edition)
 
 [Anki deck](https://ankiuser.net/study)
