@@ -19,6 +19,8 @@ random questions
 + robust models? (go back in recording)
 + see knn iris flower for k optimization
 + interpreting statistical significance with (*)s
++ What are Gaussian errors?
++ principle component analysis
 
 My work is divided into
 assignments, labs, breakouts
